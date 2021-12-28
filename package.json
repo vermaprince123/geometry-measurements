@@ -1,0 +1,22 @@
+{
+  "name": "geometry-measurements",
+  "version": "1.0.1",
+  "description": "\"It is made by Prince Verma for an Edignite NGO. It will helpful for calculate the differents geometry measurements like area and perimeter.\"",
+  "main": "index.js",
+  "keywords": [
+    "geometry",
+    "geometry-measurements",
+    "prince verma",
+    "geometry-measurements by prince verma"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermaprince123/geometry-measurements.git"
+  },
+  "author": "Prince Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vermaprince123/geometry-measurements/issues"
+  },
+  "homepage": "https://github.com/vermaprince123/geometry-measurements#readme"
+}
